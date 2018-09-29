@@ -1,0 +1,6 @@
+// ********** SPRITES STANDARDS **********
+
+> IMAGE SIZE - 1260x756
+> TILE SIZE - 126X126 (default)
+            - 63x63
+> THEME - Level 1: Dark
