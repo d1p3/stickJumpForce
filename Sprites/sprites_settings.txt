@@ -4,3 +4,8 @@
 > TILE SIZE - 126X126 (default small things)
             - 63x63 (large things)
 > THEME - Level 1: Dark
+
+
+
+
+> Night light - 230,230,0
