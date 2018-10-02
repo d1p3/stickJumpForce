@@ -1,11 +1,12 @@
 // ********** SPRITES STANDARDS **********
 
-> IMAGE SIZE - 1260x756
+> IMAGE SIZE - 1638x1260 (13x10 tiles)
+//this will reflect the size of the game screen
+//height is exact, but width will vary and is not very important
+
 > TILE SIZE - 126X126 (default small things)
             - 63x63 (large things)
-> THEME - Level 1: Dark
 
-
-
-
-> Night light - 230,230,0
+> THEME - Level 1: Blue dark
+  Night light rgb - 230,230,0
+  NOTE - try to add a blue filter to the sprites for level 1
