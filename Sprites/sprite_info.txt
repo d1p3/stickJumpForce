@@ -1,0 +1,6 @@
+File_name 		- width x height 	- pixels/tile
+
+buildings 		- 6 x 5 			- 100
+tall_building 	- 3 x 7 			- 126
+tower 			- 4 x 7 			- 100
+
