@@ -2,3 +2,6 @@ File_name 		- width x height 	- pixels/tile
 
 house1 			- 6 x 5 			- 126
 nightsky2		- 2 x 1				- 63
+star 			- 1 x 1				- 100
+street light    - 3 x 3 			- 100
+b4 				- 3 X 8				- 100
