@@ -7,7 +7,7 @@
 
 > TILE SIZE - AxA (default small things)
             - Default A: 100 px
-			- Range of A: 0 - 150 px
+			- Range of A: 50 - 150 px
 
 > THEME - Level 1: Dark blue 
   Night light rgb - 230,230,0
