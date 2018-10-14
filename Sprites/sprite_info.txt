@@ -2,7 +2,6 @@ File_name 		- width x height 	- pixels/tile
 
 house1 			- 6 x 5 			- 126
 nightsky2		- 2 x 1				- 63
-<<<<<<< HEAD
 street light    - 3 x 3 			- 100
 b4 				- 3 x 8			    - 100
 b11				- 2 x 4				- 100
@@ -11,7 +10,6 @@ b13             - 2 x 4             - 100
 b14             - 2 x 4             - 100
 s11 s12			- 1 x 1             - 100
 s21 s22         - 1 x 1             - 100
-=======
 star 			- 1 x 1				- 100
 auto_shop       - 6 x 3             - 100
 waning_crescent - 1 x 1             - 100
