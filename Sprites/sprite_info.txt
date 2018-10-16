@@ -1,16 +1,17 @@
 File_name 		- width x height 	- pixels/tile
-
+.............................................
 //surface
 brick           - 3 x 3             - 126
-dirt			- 3 x 5				- 126
-wall            - 7 x 2             - 100
-
+.............................................
 //fore-ground items
 street light    - 3 x 3 			- 100
 s11 s12			- 1 x 1             - 100
 s21 s22         - 1 x 1             - 100
 tree			- 2 x 3 			- 126
-
+.............................................
+//Background
+wall            - 7 x 2             - 100
+dirt			- 3 x 5				- 126
 //Buildings
 house1 			- 6 x 5 			- 126
 b4 				- 3 x 8			    - 100
@@ -21,9 +22,10 @@ b14             - 2 x 5             - 100
 auto_shop       - 6 x 3             - 100
 bar_top         - 1 x 2             - 63
 bar             - 6 x 3             - 63 
-
+.............................................
 //far-ground
 nightsky        - 2 x 3             - 126
 nightsky2		- 2 x 1				- 63
 waning_crescent - 1 x 1             - 100
 waning_gibbous  - 1 x 1             - 100
+.............................................
