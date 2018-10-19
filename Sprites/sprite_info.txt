@@ -1,0 +1,36 @@
+File_name 		- width x height 	- pixels/tile
+.............................................
+//surface
+brick           - 3 x 3             - 126
+.............................................
+//fore-ground items
+street light    - 3 x 3 			- 100
+tree			- 2 x 3 			- 126
+.............................................
+//Background
+wall            - 7 x 2             - 100
+dirt			- 3 x 5				- 126
+//Buildings
+house1 			- 6 x 5 			- 126
+b4 				- 3 x 8			    - 100
+b11				- 2 x 4				- 100
+b12             - 2 x 5             - 100
+b13             - 2 x 4             - 100
+b14             - 2 x 5             - 100
+b21             - 3 x 8             - 100
+b31             - 5 x 6             - 100
+b41             - 3 x 2             - 100
+b42             - 3 x 2             - 100
+b43             - 3 x 2             - 100
+auto_shop       - 6 x 3             - 100
+bar_top         - 1 x 2             - 63
+bar             - 6 x 3             - 63 
+.............................................
+//far-ground
+nightsky        - 2 x 3             - 126
+nightsky2		- 2 x 1				- 63
+waning_crescent - 1 x 1             - 100
+waning_gibbous  - 1 x 1             - 100
+star1-4         - 1 x 1               -100
+Star5-6         - 1 X 1                -100
+.............................................

@@ -1,0 +1,16 @@
+// ********** SPRITES STANDARDS **********
+
+*********** GAME SCREEN SIZE *************
+		1638x1260 (13x10 tiles)
+//this will reflect the size of the game screen
+//height is exact, but width will vary and is not very important
+
+> TILE SIZE - AxA (default small things)
+            - Default A: 100 px
+			- Range of A: 50 - 150 px
+
+> THEME - Level 1: Dark blue 
+  Night light rgb - 230,230,0
+  NOTE - try to add a blue filter to the sprites for level 1
+  
+ 
