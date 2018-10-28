@@ -1,0 +1,7 @@
+stickman
+-for man:
+	height: 150px
+	width:	30px
+document:
+	height:	300px
+	width:	270px
