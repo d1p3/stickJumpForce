@@ -7,6 +7,7 @@ brick           - 3 x 3             - 126
 street light    - 3 x 3 			- 100
 tree			- 2 x 3 			- 126
 dumpster        - 1 x 1             - 300
+exit_light		- 2 x 2				- 200
 .............................................
 //Background
 wall            - 7 x 2             - 100
