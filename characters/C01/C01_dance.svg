@@ -14,7 +14,11 @@
    viewBox="0 0 296.99998 210.00001"
    version="1.1"
    id="svg8"
+<<<<<<< HEAD
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+=======
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
    sodipodi:docname="C01_dance.svg">
   <defs
      id="defs2" />
@@ -25,6 +29,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
+<<<<<<< HEAD
      inkscape:zoom="0.70710678"
      inkscape:cx="283.66302"
      inkscape:cy="405.16038"
@@ -35,6 +40,18 @@
      inkscape:window-height="756"
      inkscape:window-x="0"
      inkscape:window-y="1"
+=======
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1436.5713"
+     inkscape:cy="429.77514"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
      inkscape:window-maximized="1"
      units="px"
      showguides="false" />
@@ -46,7 +63,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<<<<<<< HEAD
         <dc:title></dc:title>
+=======
+        <dc:title />
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,7 +85,13 @@
     </g>
     <g
        id="g2493"
+<<<<<<< HEAD
        transform="matrix(0.54072525,0,0,0.54072525,35.5252,99.506851)">
+=======
+       transform="matrix(0.54072525,0,0,0.54072525,35.5252,99.506851)"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
       <g
          id="g2543"
          transform="translate(16.951161,-9.9609935)">
@@ -89,7 +116,11 @@
                  transform="matrix(1.1081383,0,0,1,7.5808288,0)">
                 <g
                    id="g1390"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,-1.3329783,-74.322594)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,1.6571132,-120.16077)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g2508"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -212,7 +243,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,6.8482559,-74.503913)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,17.994425,-120.16077)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g324">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -337,7 +372,11 @@
                 </g>
                 <g
                    id="g368"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,15.410065,-74.204752)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,34.331735,-120.16077)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g338"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -460,7 +499,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,22.96914,-74.07654)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,50.668423,-120.16077)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g412">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -585,7 +628,11 @@
                 </g>
                 <g
                    id="g456"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,31.453816,-74.247489)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,67.114812,-120.16077)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g426"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -708,7 +755,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,40.092759,-74.162015)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,83.558232,-120.16077)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g500">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -833,7 +884,11 @@
                 </g>
                 <g
                    id="g544"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,48.500301,-73.520956)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,100.17966,-120.16077)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g514"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -956,7 +1011,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,56.753576,-74.033803)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,116.62605,-120.16093)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g588">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -1081,7 +1140,11 @@
                 </g>
                 <g
                    id="g632"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,63.464183,-74.162015)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,2.1558052,-96.013018)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g602"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -1204,7 +1267,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,72.720193,-74.375701)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,18.493115,-96.013018)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g676">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -1329,7 +1396,11 @@
                 </g>
                 <g
                    id="g720"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,80.279268,-74.503913)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,35.00597,-96.254768)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g690"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -1452,7 +1523,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,87.606943,-74.418439)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,51.279802,-96.013008)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g764">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -1577,7 +1652,11 @@
                 </g>
                 <g
                    id="g808"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,94.888241,-74.2069)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,67.50803,-96.013018)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g778"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -1700,7 +1779,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,102.41498,-73.965142)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,83.736259,-96.013018)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g852">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -1825,7 +1908,11 @@
                 </g>
                 <g
                    id="g896"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,109.04178,-74.146461)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,99.964491,-96.013008)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g866"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -1948,7 +2035,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,-0.56548653,-54.386735)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,116.12675,-96.012888)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g940">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -2073,6 +2164,7 @@
                 </g>
                 <g
                    id="g984"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,8.3793295,-54.628493)">
                   <g
                      id="g954"
@@ -2197,6 +2289,136 @@
                 </g>
                 <g
                    transform="matrix(0.98909716,0,0,0.99414504,16.77873,-54.628493)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,-80.512517,-67.880348)">
+                  <g
+                     id="g1221"
+                     transform="translate(82.964485,-4.0081413)">
+                    <g
+                       transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
+                       id="g954">
+                      <g
+                         transform="translate(-0.44716495,0.08277531)"
+                         id="g952">
+                        <path
+                           inkscape:connector-curvature="0"
+                           id="path942"
+                           d="m 89.225211,168.74983 c 0.06038,-4.16976 0.06038,-4.16976 0.06038,-4.16976"
+                           style="fill:none;stroke:#7cffff;stroke-width:1.82360017;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                        <path
+                           style="opacity:1;fill:#7cffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26939633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                           d="m 96.571402,162.2772 c -4e-6,3.23073 -1.726143,4.90703 -4.15903,5.42628 -0.743492,0.15869 -1.552989,0.13249 -2.399396,0.13249 -0.963312,0 -1.877254,-0.21647 -2.699771,-0.47517 -2.312632,-0.80522 -3.836149,-2.89496 -3.85077,-5.18933 -4e-6,-4.21806 2.567478,-6.82301 6.183537,-6.82301 3.616059,0 6.925434,2.7107 6.92543,6.92876 z"
+                           id="path944"
+                           inkscape:connector-curvature="0"
+                           sodipodi:nodetypes="cssccssc" />
+                        <path
+                           inkscape:connector-curvature="0"
+                           id="path946"
+                           d="m 84.221909,158.83059 c -0.467392,1.03082 -0.727209,2.17374 -0.759474,3.34088 l 13.108967,0.10573 c -0.02099,-0.71964 -0.137539,-1.45333 -0.385047,-2.16441 -0.07514,-0.21586 -0.138661,-0.46548 -0.239152,-0.67621 -0.105604,-0.22145 -0.248547,-0.40343 -0.340839,-0.60599 z"
+                           style="opacity:1;fill:#1f55f9;fill-opacity:0.98058256;fill-rule:nonzero;stroke:#001014;stroke-width:0.24071465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                           sodipodi:nodetypes="cccsscc" />
+                        <path
+                           sodipodi:nodetypes="cscccccc"
+                           inkscape:connector-curvature="0"
+                           id="path948"
+                           d="m 92.509424,160.54901 c 0.461291,0.12346 0.761677,0.21905 1.038692,0.29299 0.947799,0.253 0.768233,0.26941 0.768233,0.26941 l 0.238565,-0.4853 0.0066,-0.50413 -0.953151,0.11065 -0.675259,0.1858 z"
+                           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#40201e;stroke-width:0.27066606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.95631068" />
+                        <path
+                           sodipodi:nodetypes="ccc"
+                           inkscape:transform-center-y="0.11693042"
+                           inkscape:transform-center-x="-0.016704346"
+                           inkscape:connector-curvature="0"
+                           id="path950"
+                           d="m 95.887127,164.86322 -1.897806,-0.35595 -0.418808,0.42563"
+                           style="fill:none;stroke:#40201e;stroke-width:0.36997274;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+                      </g>
+                    </g>
+                    <path
+                       style="fill:none;fill-opacity:1;stroke:#7cffff;stroke-width:0.96998549;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       d="m -67.461025,358.13091 0.428754,2.8387 -0.03709,2.92376"
+                       id="path956"
+                       inkscape:connector-curvature="0"
+                       sodipodi:nodetypes="ccc" />
+                    <path
+                       style="fill:#7cffff;fill-opacity:1;stroke:#7cffff;stroke-width:0.96524554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       d="m -67.386187,353.36857 -0.0992,4.35473"
+                       id="path958"
+                       inkscape:connector-curvature="0" />
+                    <g
+                       id="g974"
+                       transform="matrix(0.27710209,0,0,0.24161974,-102.3356,312.48912)">
+                      <path
+                         inkscape:connector-curvature="0"
+                         id="path960"
+                         d="m 124.96425,165.2607 c -4.62343,0.99512 -8.5202,6.01569 -8.52137,12.06527 0.005,6.04548 3.39317,11.20171 8.01346,12.19615 -0.0668,-8.08714 0.11699,-16.17428 0.50791,-24.26142 z"
+                         style="opacity:1;fill:#2257f9;fill-opacity:1;fill-rule:nonzero;stroke:#181e1e;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+                         sodipodi:nodetypes="cccc" />
+                      <path
+                         inkscape:connector-curvature="0"
+                         id="path962"
+                         d="m 124.09959,166.47623 c -3.43311,0.88443 -6.56371,5.4725 -6.56458,10.84914 0.004,5.37299 2.54371,9.73748 5.97449,10.62131 z"
+                         style="opacity:1;fill:#26bcff;fill-opacity:1;fill-rule:nonzero;stroke:#181e1e;stroke-width:0.43000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+                         sodipodi:nodetypes="cccc" />
+                      <path
+                         sodipodi:nodetypes="ccc"
+                         inkscape:connector-curvature="0"
+                         id="path964"
+                         d="m 117.55059,176.2847 5.95313,-0.0386 0.0945,0.0472"
+                         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+                      <path
+                         sodipodi:nodetypes="cc"
+                         inkscape:connector-curvature="0"
+                         id="path966"
+                         d="m 117.50335,177.40833 6.05335,-0.0556"
+                         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+                      <rect
+                         y="176.29085"
+                         x="116.94933"
+                         height="1.055745"
+                         width="7.0355363"
+                         id="rect968"
+                         style="opacity:1;fill:#2257f9;fill-opacity:1;fill-rule:nonzero;stroke:#181e1e;stroke-width:0.46270925;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+                      <path
+                         sodipodi:nodetypes="cccccc"
+                         inkscape:connector-curvature="0"
+                         id="path970"
+                         d="m 120.30243,168.44615 0.25985,0.0118 3.47363,-0.0403 v 1.02055 h -4.53527 z"
+                         style="opacity:1;fill:#2257f9;fill-opacity:1;fill-rule:nonzero;stroke:#181e1e;stroke-width:0.37891287;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+                      <path
+                         sodipodi:nodetypes="cccccc"
+                         inkscape:connector-curvature="0"
+                         id="path972"
+                         d="m 119.63445,185.54248 0.12738,0.004 3.93771,0.0167 v -1.02055 h -4.73838 z"
+                         style="opacity:1;fill:#2257f9;fill-opacity:1;fill-rule:nonzero;stroke:#181e1e;stroke-width:0.38730487;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+                    </g>
+                    <path
+                       style="fill:none;fill-opacity:1;stroke:#7cffff;stroke-width:0.96482062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       d="m -67.4632,358.12865 -0.60476,2.79827 -1.675788,2.9692"
+                       id="path976"
+                       inkscape:connector-curvature="0"
+                       sodipodi:nodetypes="ccc" />
+                    <path
+                       style="fill:none;fill-opacity:1;stroke:#7cffff;stroke-width:0.96524554;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       d="m -67.353677,352.79168 1.302086,1.62863 1.620037,-0.0577"
+                       id="path978"
+                       inkscape:connector-curvature="0"
+                       sodipodi:nodetypes="ccc" />
+                    <path
+                       style="fill:none;fill-opacity:1;stroke:#7cffff;stroke-width:0.96524554;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       d="m -67.353677,352.79168 0.198191,1.99524 2.404208,0.55523"
+                       id="path980"
+                       inkscape:connector-curvature="0"
+                       sodipodi:nodetypes="ccc" />
+                    <path
+                       style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       d="m -67.952159,357.70053 c 0.9513,0.008 0.9513,0.008 0.9513,0.008"
+                       id="path982"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                </g>
+                <g
+                   transform="matrix(0.98909716,0,0,0.99414504,17.775649,-71.865008)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1028">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -2321,7 +2543,11 @@
                 </g>
                 <g
                    id="g1072"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,25.069047,-55.05157)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,34.003877,-71.864868)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1042"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -2444,7 +2670,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,33.90478,-54.870251)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,50.232105,-71.864868)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1116">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -2569,7 +2799,11 @@
                 </g>
                 <g
                    id="g1160"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,42.795055,-54.447174)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,66.460334,-71.864868)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1130"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -2692,7 +2926,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,51.00356,-54.915581)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,82.688566,-71.864868)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1204">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -2817,7 +3055,11 @@
                 </g>
                 <g
                    id="g1248"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,61.461904,-55.293328)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,99.025874,-71.864868)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1218"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -2940,7 +3182,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,71.429374,-55.671075)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,115.36318,-71.864868)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1292">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -3064,7 +3310,11 @@
                      inkscape:connector-curvature="0" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,81.516592,-53.754787)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,1.002004,-47.716818)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1336">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -3189,7 +3439,11 @@
                 </g>
                 <g
                    id="g1380"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,90.804403,-54.573683)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,17.339318,-47.716818)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1350"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -3312,7 +3566,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,100.02805,-53.763378)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,33.785712,-47.716818)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1424">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -3437,7 +3695,11 @@
                 </g>
                 <g
                    id="g1468"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,109.03273,-53.33171)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,50.232106,-47.716818)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1438"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -3560,7 +3822,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,-0.53924704,-33.1701)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,66.678506,-47.716818)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1512">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -3685,7 +3951,11 @@
                 </g>
                 <g
                    id="g1556"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,10.299523,-33.25987)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,83.124904,-47.716958)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1526"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -3808,7 +4078,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,21.954811,-33.601768)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,99.5713,-47.716968)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1600">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -3933,7 +4207,11 @@
                 </g>
                 <g
                    id="g1644"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,32.756149,-34.043806)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,116.12677,-47.716968)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1614"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -4056,7 +4334,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,60.682288,-14.148551)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,99.680981,0.57901165)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1732">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -4181,7 +4463,11 @@
                 </g>
                 <g
                    id="g1776"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,51.739904,-13.817024)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,83.356896,0.57901165)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1746"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -4304,7 +4590,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,42.098227,-13.175965)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,67.032819,0.57901165)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1820">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -4429,7 +4719,11 @@
                 </g>
                 <g
                    id="g1864"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,32.996484,-11.85111)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,50.708111,0.57901165)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1834"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -4552,7 +4846,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,21.117938,-15.09914)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,34.493111,0.57901165)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1908">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -4677,7 +4975,11 @@
                 </g>
                 <g
                    id="g1952"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,9.5479264,-15.355564)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,18.275127,0.57901165)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g1922"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -4800,7 +5102,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,-0.55655143,-15.740199)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,2.2351662,0.57901165)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g1996">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -4925,7 +5231,11 @@
                 </g>
                 <g
                    id="g2040"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,109.97563,-34.886486)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,116.62605,-23.569018)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g2010"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -5048,7 +5358,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,102.03089,-33.818055)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,100.17967,-23.569138)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g2084">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -5173,7 +5487,11 @@
                 </g>
                 <g
                    id="g2128"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,93.083415,-33.689843)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,83.842356,-23.569138)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g2098"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -5296,7 +5614,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,82.439004,-33.647106)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,67.680592,-23.810898)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g2172">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -5421,7 +5743,11 @@
                 </g>
                 <g
                    id="g2216"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,71.871726,-33.048785)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,51.279803,-23.569138)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g2186"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -5544,7 +5870,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,62.029406,-33.521042)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,34.833407,-23.569138)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g2260">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -5669,7 +5999,11 @@
                 </g>
                 <g
                    id="g2304"
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,51.352659,-33.450233)">
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,18.387016,-23.569138)">
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                   <g
                      id="g2274"
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)">
@@ -5792,7 +6126,11 @@
                      style="fill:none;stroke:#2257f9;stroke-width:0.34388232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 </g>
                 <g
+<<<<<<< HEAD
                    transform="matrix(0.98909716,0,0,0.99414504,41.935708,-33.289654)"
+=======
+                   transform="matrix(0.98909716,0,0,0.99414504,1.9406227,-23.569138)"
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
                    id="g2348">
                   <g
                      transform="matrix(0.22641622,0,0,0.24246795,-87.405754,311.49911)"
@@ -5925,4 +6263,139 @@
       </g>
     </g>
   </g>
+<<<<<<< HEAD
+=======
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="BOX"
+     style="display:none">
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-6-3-3"
+       width="39.62648"
+       height="52.85564"
+       x="0.13229167"
+       y="157.01207"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-0-3-2-9"
+       width="39.62648"
+       height="52.85564"
+       x="39.75877"
+       y="157.01207"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-7-9-7"
+       width="39.62648"
+       height="52.85564"
+       x="79.385292"
+       y="157.01207"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-0-7-85-9"
+       width="39.62648"
+       height="52.85564"
+       x="119.01173"
+       y="157.01207"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-6-3-3-7"
+       width="39.62648"
+       height="52.85564"
+       x="158.6382"
+       y="157.01207"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-0-3-2-9-2"
+       width="39.62648"
+       height="52.85564"
+       x="198.26468"
+       y="157.01207"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-7-9-7-5"
+       width="39.62648"
+       height="52.85564"
+       x="237.8912"
+       y="157.01207"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-0-7-85-9-9"
+       width="39.62648"
+       height="52.85564"
+       x="277.51764"
+       y="157.01207"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-6-3-3-6"
+       width="39.62648"
+       height="52.85564"
+       x="0.13229167"
+       y="157.01207"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-6-3-3-6-9"
+       width="39.62648"
+       height="52.85564"
+       x="0.13232219"
+       y="104.15645"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-6-3-3-6-2"
+       width="39.62648"
+       height="52.85564"
+       x="0.13232219"
+       y="51.3008"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-6-3-3-6-9-0"
+       width="39.62648"
+       height="52.85564"
+       x="0.13235271"
+       y="-1.5548362"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-6-3-3-6-0"
+       width="39.62648"
+       height="52.85564"
+       x="0.13235271"
+       y="-54.410473"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1699-6-3-3-6-9-8"
+       width="39.62648"
+       height="52.85564"
+       x="0.13238323"
+       y="-107.26611"
+       inkscape:export-xdpi="95.987579"
+       inkscape:export-ydpi="95.987579" />
+  </g>
+>>>>>>> 78633604b12a49d926b742e7c617fe70a5f8bab2
 </svg>
