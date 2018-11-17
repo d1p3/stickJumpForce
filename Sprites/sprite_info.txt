@@ -6,6 +6,8 @@ brick           - 3 x 3             - 126
 //fore-ground items
 street light    - 3 x 3 			- 100
 tree			- 2 x 3 			- 126
+dumpster        - 1 x 1             - 300
+exit_light		- 2 x 2				- 200
 .............................................
 //Background
 wall            - 7 x 2             - 100
@@ -25,12 +27,13 @@ b43             - 3 x 2             - 100
 auto_shop       - 6 x 3             - 100
 bar_top         - 1 x 2             - 63
 bar             - 6 x 3             - 63 
+shade           - 20 x 6            - 100
 .............................................
 //far-ground
 nightsky        - 2 x 3             - 126
 nightsky2		- 2 x 1				- 63
 waning_crescent - 1 x 1             - 100
 waning_gibbous  - 1 x 1             - 100
-star1-4         - 1 x 1               -100
-Star5-6         - 1 X 1                -100
+star1-4         - 1 x 1             - 100
+Star5-6         - 1 X 1             - 100
 .............................................
