@@ -18,9 +18,21 @@
    sodipodi:docname="C03_death.svg"
    inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   enable-background="new">
   <defs
-     id="defs1958" />
+     id="defs1958">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1206">
+      <feBlend
+         inkscape:collect="always"
+         mode="overlay"
+         in2="BackgroundImage"
+         id="feBlend1208" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,17 +41,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-373.85307"
-     inkscape:cy="992.29362"
+     inkscape:cx="528.00583"
+     inkscape:cy="208.26729"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showborder="false"
      inkscape:lockguides="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1961">
@@ -49,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,8 +72,8 @@
      style="display:inline">
     <g
        id="g1522"
-       transform="translate(1.0890882,-2.7395014)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(242.29849,235.44682)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -155,8 +167,8 @@
      style="display:inline">
     <g
        id="g1190"
-       transform="translate(40.221379,-3.0794663)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(281.43079,235.10685)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -266,8 +278,8 @@
      style="display:inline">
     <g
        id="g1210"
-       transform="translate(80.333668,-2.9121109)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(321.54308,235.27421)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -415,8 +427,8 @@
      style="display:inline">
     <g
        id="g1258"
-       transform="translate(1.0111071,-3.2654839)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(242.22052,234.92084)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -568,16 +580,16 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="grid"
-     style="display:inline">
+     style="display:inline;filter:url(#filter1206)">
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.17876568;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect271"
        width="39.508736"
        height="52.7379"
-       x="-241.12003"
-       y="-46.751503"
+       x="0.089382842"
+       y="191.43481"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -585,10 +597,10 @@
        id="rect271-7"
        width="39.508736"
        height="52.7379"
-       x="-201.6113"
-       y="-46.751503"
+       x="39.598118"
+       y="191.43481"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -596,10 +608,10 @@
        id="rect271-0"
        width="39.508736"
        height="52.7379"
-       x="-162.10257"
-       y="-46.751503"
+       x="79.106842"
+       y="191.43481"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -607,10 +619,10 @@
        id="rect271-8"
        width="39.508736"
        height="52.7379"
-       x="-122.59383"
-       y="-46.751503"
+       x="118.61559"
+       y="191.43481"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -618,10 +630,10 @@
        id="rect271-5"
        width="39.508736"
        height="52.7379"
-       x="-83.085091"
-       y="-46.751503"
+       x="158.12431"
+       y="191.43481"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -629,10 +641,10 @@
        id="rect271-87"
        width="39.508736"
        height="52.7379"
-       x="-43.576355"
-       y="-46.751503"
+       x="197.63306"
+       y="191.43481"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -640,10 +652,10 @@
        id="rect271-80"
        width="39.508736"
        height="52.7379"
-       x="-4.0676193"
-       y="-46.751503"
+       x="237.14178"
+       y="191.43481"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -651,10 +663,10 @@
        id="rect271-2"
        width="39.508736"
        height="52.7379"
-       x="-241.12003"
-       y="5.9863968"
+       x="0.089382842"
+       y="244.17271"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -662,10 +674,10 @@
        id="rect271-7-6"
        width="39.508736"
        height="52.7379"
-       x="-201.61131"
-       y="5.9863968"
+       x="39.598095"
+       y="244.17271"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -673,10 +685,10 @@
        id="rect271-0-2"
        width="39.508736"
        height="52.7379"
-       x="-162.10257"
-       y="5.9863968"
+       x="79.106842"
+       y="244.17271"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -684,10 +696,10 @@
        id="rect271-8-0"
        width="39.508736"
        height="52.7379"
-       x="-122.59384"
-       y="5.9863968"
+       x="118.61557"
+       y="244.17271"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -695,10 +707,10 @@
        id="rect271-5-4"
        width="39.508736"
        height="52.7379"
-       x="-83.085091"
-       y="5.9863968"
+       x="158.12431"
+       y="244.17271"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -706,10 +718,10 @@
        id="rect271-87-8"
        width="39.508736"
        height="52.7379"
-       x="-43.576359"
-       y="5.9863968"
+       x="197.63306"
+       y="244.17271"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -717,10 +729,10 @@
        id="rect271-80-4"
        width="39.508736"
        height="52.7379"
-       x="-4.0676312"
-       y="5.9863968"
+       x="237.14178"
+       y="244.17271"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
@@ -731,8 +743,8 @@
      style="display:inline">
     <g
        id="g1279"
-       transform="translate(158.85936,-2.8645878)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(400.06877,235.32173)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -887,8 +899,8 @@
      style="display:inline">
     <g
        id="g1300"
-       transform="translate(196.78326,-1.8784541)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(437.99267,236.30787)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -1043,8 +1055,8 @@
      style="display:inline">
     <g
        id="g1321"
-       transform="translate(234.86282,-1.8039598)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(476.07223,236.38236)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -1201,8 +1213,8 @@
      style="display:inline">
     <g
        id="g1543"
-       transform="translate(-1.3531075,-0.49038201)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(240.91463,237.78901)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -1359,8 +1371,8 @@
      style="display:inline">
     <g
        id="g1570"
-       transform="translate(2.3930592,0.56326683)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(244.6608,237.78434)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <g
@@ -1517,8 +1529,8 @@
      style="display:inline">
     <g
        id="g1430"
-       transform="translate(1.3102856,-0.53243593)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(243.57803,236.68863)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -1669,8 +1681,8 @@
      style="display:inline">
     <g
        id="g1451"
-       transform="translate(110.54394,52.12503)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(352.81169,289.87526)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -1827,8 +1839,8 @@
      style="display:inline">
     <g
        id="g1472"
-       transform="translate(147.78442,52.634577)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(391.63968,289.32647)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -1985,8 +1997,8 @@
      style="display:inline">
     <g
        id="g1489"
-       transform="translate(1.633693,1.2478004)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(243.90143,237.9397)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
@@ -2115,8 +2127,8 @@
      style="display:inline">
     <g
        id="g1506"
-       transform="translate(0.61179331,3.8973943)"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_death.png"
+       transform="translate(242.87955,239.53096)"
+       inkscape:export-filename="I:\Sem 5 (FA18)\Project\stickJumpForce\characters\C03\C03_death.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
