@@ -1,0 +1,2869 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg11357"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="C03_ghit.svg"
+   inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\svgs_new\C03_ghit.png"
+   inkscape:export-xdpi="74.910004"
+   inkscape:export-ydpi="74.910004">
+  <defs
+     id="defs11351" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="808.48389"
+     inkscape:cy="285.45402"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer10"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata11354">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g1312"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       transform="translate(0,-52.749036)">
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 19.52096,211.53359 0.0682,-1.25405"
+         id="path6348-0-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:transform-center-y="3.5217365"
+         inkscape:transform-center-x="-0.26883077"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 19.41439,211.40496 -1.61933,4.50708 3.44424,2.61117"
+         id="path4601-6-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="2.830499"
+         inkscape:transform-center-x="-1.9899229"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 19.38736,211.50842 2.00268,4.07538 2.02703,1.87152"
+         id="path4601-8-5-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <g
+         transform="translate(200.01176,254.18046)"
+         id="g12545">
+        <path
+           id="path6238-75-0"
+           d="m -182.84341,-50.164671 5.94561,0.88351 z"
+           style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <ellipse
+           cx="-180.18375"
+           cy="-47.996586"
+           rx="3.6525061"
+           ry="3.6473191"
+           id="path6213-0-11"
+           style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path6215-3-4"
+           d="m -177.54771,-45.821871 -0.74194,0.24522 -1.09673,-0.2975"
+           style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path6219-9-0"
+           d="m -178.41325,-48.654931 -0.44261,0.99385 1.96172,0.10285 z"
+           style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.04371475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 19.52096,211.53359 Z"
+         id="path6344-8-5"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.04371475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 19.52096,211.53359 c 0,0 0,0 0,0 z"
+         id="path6346-7-8"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5"
+         width="4.297996"
+         height="2.3911977"
+         x="19.065258"
+         y="219.40717"
+         ry="0.18143466" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:transform-center-y="0.1889881"
+         inkscape:transform-center-x="0.047247024"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 19.51031,211.52898 0.0963,4.62366 0.38947,4.81197"
+         id="path4561-3-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 20.28843,222.49799 2.44844,4.38683 0.0114,5.28529"
+         id="path4618-0-06"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 20.28843,222.49799 -0.11334,3.81149 -1.64854,5.49454"
+         id="path4626-1-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 19.60622,221.42991 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+         id="path6656-1-0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1331"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       transform="translate(0,-52.749036)">
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.04371475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 59.58888,211.54207 Z"
+         id="path6344-8-5-6"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.04371475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 59.58888,211.54207 c 0,0 0,0 0,0 z"
+         id="path6346-7-8-0"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-9"
+         width="4.297996"
+         height="2.3911977"
+         x="59.133163"
+         y="219.41565"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.35635,222.50647 2.44844,4.38682 0.0114,5.2853"
+         id="path4618-0-06-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.35635,222.50647 -0.11334,3.81149 -1.64854,5.49454"
+         id="path4626-1-3-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 59.67414,221.43839 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+         id="path6656-1-0-5"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-4.1464777,4433.0561,-2725.4601)"
+         inkscape:transform-center-y="-9.5035015"
+         inkscape:transform-center-x="0.85358675"
+         id="g292">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1371"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       transform="translate(0,-52.749036)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-0"
+         width="4.297996"
+         height="2.3911977"
+         x="139.22058"
+         y="219.61751"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 140.4905,222.45857 2.44844,4.38682 0.0114,5.2853"
+         id="path4618-0-06-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 140.44375,222.70832 -0.11334,3.81149 -1.64854,5.49454"
+         id="path4626-1-3-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 139.76154,221.64023 1.0064,-0.54762 v 0.36741 l -1.04197,0.51773 z"
+         id="path6656-1-0-1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-7.6259762,2428.7733,-2051.914)"
+         inkscape:transform-center-y="-9.4428838"
+         inkscape:transform-center-x="1.444932"
+         id="g292-30"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-71"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280-6"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2-92"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4-6"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4-4"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4-2"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1-40" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9-9"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9-1"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6-7"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1439"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       transform="translate(0,-52.749036)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-54"
+         width="4.297996"
+         height="2.3911977"
+         x="178.63979"
+         y="219.61977"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 180.33493,222.46084 2.44844,4.38682 0.0114,5.2853"
+         id="path4618-0-06-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 179.86296,222.71059 -0.11334,3.81149 -1.64854,5.49454"
+         id="path4626-1-3-05"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 179.18075,221.6425 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+         id="path6656-1-0-59"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-8.0215297,2328.2405,-2229.3369)"
+         inkscape:transform-center-y="-9.434211"
+         inkscape:transform-center-x="1.5122842"
+         id="g292-7"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-0"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280-7"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2-7"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4-69"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4-22"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4-3"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1-8" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9-1"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9-0"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6-6"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g953"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       transform="translate(203.04083,324.33909)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-3"
+         width="4.297996"
+         height="2.3911977"
+         x="14.927816"
+         y="-52.01944"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 16.150989,-48.928615 2.44844,4.386822 0.0114,5.285297"
+         id="path4618-0-06-34"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 16.150989,-48.928615 -0.11334,3.811486 -1.64854,5.494541"
+         id="path4626-1-3-35"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 15.468779,-49.996701 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+         id="path6656-1-0-7"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-4.1464777,657.48173,-2246.5048)"
+         inkscape:transform-center-y="-9.5035015"
+         inkscape:transform-center-x="0.85358675"
+         id="g292-0"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-1"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280-8"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2-5"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4-8"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4-3"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4-5"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1-1" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9-00"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9-91"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6-2"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g936"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       transform="translate(203.44085,324.31179)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-29"
+         width="4.297996"
+         height="2.3911977"
+         x="-24.425997"
+         y="-52.01944"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -23.202824,-48.928615 2.44844,4.386822 0.0114,5.285297"
+         id="path4618-0-06-81"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -23.202824,-48.928615 -0.11334,3.811486 -1.64854,5.494541"
+         id="path4626-1-3-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m -23.885034,-49.996701 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+         id="path6656-1-0-07"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-6.0408002,411.72756,-1193.0065)"
+         inkscape:transform-center-y="-9.4739979"
+         inkscape:transform-center-x="1.1752264"
+         id="g292-56"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-4"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280-1"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2-00"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4-5"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4-8"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4-9"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1-407" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9-5"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9-86"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6-3"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g919"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       transform="translate(203.0478,324.29767)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-8"
+         width="4.297996"
+         height="2.3911977"
+         x="-63.780476"
+         y="-52.01944"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -62.557296,-48.928615 2.44844,4.386822 0.0114,5.285297"
+         id="path4618-0-06-03"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -62.557296,-48.928615 -0.11334,3.811486 -1.64854,5.494541"
+         id="path4626-1-3-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m -63.239506,-49.996701 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+         id="path6656-1-0-57"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-9.9012815,198.16916,-529.92257)"
+         inkscape:transform-center-y="-9.3880473"
+         inkscape:transform-center-x="1.8325082"
+         id="g292-74"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-78"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280-66"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2-73"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4-61"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4-0"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4-58"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1-0" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9-7"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9-5"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6-96"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g980"
+       transform="translate(1.4286195,-53.00054)"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-7"
+         width="4.297996"
+         height="2.3911977"
+         x="58.096481"
+         y="272.36493"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.41365,275.20602 2.44844,4.38682 0.0114,5.28529"
+         id="path4618-0-06-80"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.31966,275.45576 -0.11334,3.81149 -1.64854,5.49454"
+         id="path4626-1-3-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 58.63745,274.38768 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+         id="path6656-1-0-63"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-14.696367,1419.4212,-691.82062)"
+         inkscape:transform-center-y="-9.2335736"
+         inkscape:transform-center-x="2.648506"
+         id="g292-9"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-33"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280-0"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2-1"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4-03"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4-7"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4-8"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1-76" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9-97"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9-62"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6-8"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1473"
+       transform="translate(-1.5137064,-52.749036)"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-2"
+         width="4.297996"
+         height="2.3911977"
+         x="20.452477"
+         y="272.35245"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 22.14762,275.19353 2.44844,4.38683 0.0114,5.28529"
+         id="path4618-0-06-36"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 21.67565,275.44328 -0.11334,3.81149 -1.64854,5.49454"
+         id="path4626-1-3-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 20.99344,274.3752 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+         id="path6656-1-0-0"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-11.448087,1817.708,-727.29509)"
+         inkscape:transform-center-y="-9.3439553"
+         inkscape:transform-center-x="2.0960194"
+         id="g292-1"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-77"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280-25"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2-12"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4-9"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4-41"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4-277"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1-3" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9-58"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9-18"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6-88"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1354"
+       transform="translate(0.44677238,-52.749036)"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004">
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.04371475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 98.519695,211.61757 Z"
+         id="path6344-8-5-4"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.04371475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 98.519695,211.61757 c 0,0 0,0 0,0 z"
+         id="path6346-7-8-4"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-5"
+         width="4.297996"
+         height="2.3911977"
+         x="98.063995"
+         y="219.49115"
+         ry="0.18143466" />
+      <g
+         transform="translate(241.25276,323.89336)"
+         inkscape:export-ydpi="74.910004"
+         inkscape:export-xdpi="74.910004"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+         id="g779-3"
+         style="display:inline">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6344-8-5-6-5"
+           d="M -142.03226,-112.35129 Z"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:0.04371475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6346-7-8-0-5"
+           d="m -142.03226,-112.35129 c 0,0 0,0 0,0 z"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:0.04371475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           ry="0.18143466"
+           y="-104.47771"
+           x="-142.48798"
+           height="2.3911977"
+           width="4.297996"
+           id="rect6648-00-5-9-4"
+           style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4618-0-06-0-6"
+           d="m -141.26479,-101.38689 2.44844,4.386824 0.0114,5.285297"
+           style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="-1.4288003"
+           inkscape:transform-center-y="5.2277403" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4626-1-3-3-5"
+           d="m -141.26479,-101.38689 -0.11334,3.811488 -1.64854,5.494541"
+           style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="0.4268677"
+           inkscape:transform-center-y="5.74075" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6656-1-0-5-9"
+           d="m -141.947,-102.45497 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+           style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g292-76"
+           inkscape:transform-center-x="0.85358675"
+           inkscape:transform-center-y="-9.5035015"
+           transform="rotate(-4.1464777,-141.33993,-102.63408)">
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.03226,-112.35129 0.0682,-1.25405"
+             id="path6348-0-2-3-87"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <g
+             inkscape:transform-center-y="-9.1389033"
+             inkscape:transform-center-x="0.14313554"
+             transform="rotate(-0.39528353,-141.30928,-118.18664)"
+             id="g280-16">
+            <path
+               sodipodi:nodetypes="ccc"
+               inkscape:connector-curvature="0"
+               id="path4601-6-7-2-8"
+               d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+               style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96"
+               inkscape:transform-center-x="-0.26883077"
+               inkscape:transform-center-y="3.5217365" />
+            <path
+               sodipodi:nodetypes="ccc"
+               inkscape:connector-curvature="0"
+               id="path4601-8-5-2-4-92"
+               d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+               style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96"
+               inkscape:transform-center-x="-3.4439175"
+               inkscape:transform-center-y="3.0270647" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path4561-3-1-4-14"
+               d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+               style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96"
+               sodipodi:nodetypes="ccc" />
+            <g
+               style="display:inline"
+               transform="rotate(-9.2598589,-568.59184,50.850367)"
+               id="g12567-4-7">
+              <path
+                 id="path6238-75-0-1-1-9"
+                 d="m -122.73493,-49.051434 5.94562,0.88351 z"
+                 style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+                 inkscape:export-xdpi="96"
+                 inkscape:export-ydpi="96" />
+              <ellipse
+                 transform="rotate(19.434703)"
+                 cx="-128.83313"
+                 cy="-4.2590704"
+                 rx="3.6525061"
+                 ry="3.6473191"
+                 id="path6213-0-11-5-9-970"
+                 style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                 inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+                 inkscape:export-xdpi="96"
+                 inkscape:export-ydpi="96" />
+              <path
+                 sodipodi:nodetypes="ccc"
+                 inkscape:connector-curvature="0"
+                 id="path6215-3-4-2-9-4"
+                 d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+                 style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+                 inkscape:export-xdpi="96"
+                 inkscape:export-ydpi="96" />
+              <path
+                 sodipodi:nodetypes="cccc"
+                 inkscape:connector-curvature="0"
+                 id="path6219-9-0-7-6-62"
+                 d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+                 style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+                 inkscape:export-xdpi="96"
+                 inkscape:export-ydpi="96" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1456"
+       transform="translate(-0.93695694,-52.749036)"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-2-3"
+         width="4.297996"
+         height="2.3911977"
+         x="218.61058"
+         y="219.60342"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 220.30573,222.44449 2.44844,4.38683 0.0114,5.28529"
+         id="path4618-0-06-36-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 219.83376,222.69424 -0.11334,3.81149 -1.64854,5.49454"
+         id="path4626-1-3-8-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 219.15155,221.62616 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+         id="path6656-1-0-0-8"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-11.448087,1653.6657,-1742.1165)"
+         inkscape:transform-center-y="-9.3439553"
+         inkscape:transform-center-x="2.0960194"
+         id="g292-1-2"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-77-6"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280-25-5"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2-12-9"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4-9-7"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4-41-0"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4-277-8"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1-3-2" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9-58-2"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9-18-3"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6-88-5"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g963"
+       transform="translate(1.744985,-53.88184)"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6648-00-5-7-6"
+         width="4.297996"
+         height="2.3911977"
+         x="97.858513"
+         y="272.99768"
+         ry="0.18143466" />
+      <path
+         inkscape:transform-center-y="5.2277403"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 99.175685,275.83879 2.448435,4.38682 0.0114,5.28529"
+         id="path4618-0-06-80-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:transform-center-y="5.74075"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 99.081696,276.08853 -0.113341,3.81149 -1.64854,5.49454"
+         id="path4626-1-3-1-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 98.399485,275.02045 1.006401,-0.54763 v 0.36742 l -1.041971,0.51772 z"
+         id="path6656-1-0-63-9"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="rotate(-20.546749,1019.6784,-576.866)"
+         inkscape:transform-center-y="-8.9750651"
+         inkscape:transform-center-x="3.6356904"
+         id="g292-9-5"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-33-6"
+           d="m -142.03226,-112.35129 0.0682,-1.25405"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g280-0-3"
+           transform="rotate(-0.39528353,-141.30928,-118.18664)"
+           inkscape:transform-center-x="0.14313554"
+           inkscape:transform-center-y="-9.1389033">
+          <path
+             inkscape:transform-center-y="3.5217365"
+             inkscape:transform-center-x="-0.26883077"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.13883,-112.47992 -1.61933,4.50708 3.44424,2.61117"
+             id="path4601-6-7-2-1-1"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:transform-center-y="3.0270647"
+             inkscape:transform-center-x="-3.4439175"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -142.17502,-112.37456 2.26122,3.93781 2.14346,1.73696"
+             id="path4601-8-5-2-4-03-4"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -142.04291,-112.3559 0.0574,4.73821 0.42839,4.69742"
+             id="path4561-3-1-4-7-8"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g12567-4-8-7"
+             transform="rotate(-9.2598589,-568.59184,50.850367)"
+             style="display:inline">
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -122.73493,-49.051434 5.94562,0.88351 z"
+               id="path6238-75-0-1-1-76-6" />
+            <ellipse
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="path6213-0-11-5-9-97-9"
+               ry="3.6473191"
+               rx="3.6525061"
+               cy="-4.2590704"
+               cx="-128.83313"
+               transform="rotate(19.434703)" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+               id="path6215-3-4-2-9-62-1"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+               style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+               id="path6219-9-0-7-6-8-2"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="rotate(-27.392815,836.15856,-298.86669)"
+       inkscape:transform-center-y="-8.5782476"
+       inkscape:transform-center-x="4.766152"
+       id="g292-9-5-6-5-6-7-0"
+       style="display:inline" />
+    <g
+       id="g2740">
+      <rect
+         ry="0.18143466"
+         y="218.30858"
+         x="218.05157"
+         height="2.3911977"
+         width="4.297996"
+         id="rect6648-00-5-7-6-7-2-7"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4618-0-06-80-1-8-8-8"
+         d="m 219.36876,221.14969 2.44845,4.38681 0.0114,5.28528"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:transform-center-y="5.2277403" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4626-1-3-1-8-7-0-2"
+         d="m 219.27477,221.39943 -0.11333,3.81149 -1.64855,5.49454"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:transform-center-y="5.74075" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6656-1-0-63-9-8-6-6"
+         d="m 218.59256,220.33135 1.00655,-0.54735 v 0.36742 l -1.04195,0.51777 z"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6348-0-2-3-33-6-2-0-4"
+         d="m 213.21009,212.27347 -0.63546,-1.08328"
+         style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4601-6-7-2-1-1-4-7-7"
+         d="m 213.08615,212.20797 1.17009,4.64401 4.31515,0.24598"
+         style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:transform-center-x="-0.26883077"
+         inkscape:transform-center-y="3.5217365" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4601-8-5-2-4-03-4-4-4-7"
+         d="m 213.11489,212.3156 4.07328,2.00694 2.7479,0.24599"
+         style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:transform-center-x="-3.4439175"
+         inkscape:transform-center-y="3.0270647" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4561-3-1-4-7-8-9-7-2"
+         d="m 213.23494,212.25739 2.69065,3.90056 2.97581,3.65976"
+         style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         sodipodi:nodetypes="ccc" />
+      <g
+         style="display:inline"
+         transform="rotate(-43.164134,365.62731,-336.66238)"
+         id="g12567-4-8-7-7-4-7">
+        <path
+           id="path6238-75-0-1-1-76-6-6-2-4"
+           d="m -122.73493,-49.051434 5.94562,0.88351 z"
+           style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <ellipse
+           transform="rotate(19.434703)"
+           cx="-128.83313"
+           cy="-4.2590704"
+           rx="3.6525061"
+           ry="3.6473191"
+           id="path6213-0-11-5-9-97-9-5-2-6"
+           style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path6215-3-4-2-9-62-1-1-7-2"
+           d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+           style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path6219-9-0-7-6-8-2-9-2-1"
+           d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+           style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1831"
+         d="m 211.61942,210.01823 0.95521,1.17196"
+         style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2724">
+      <g
+         transform="translate(0,-52.749036)"
+         inkscape:export-ydpi="74.910004"
+         inkscape:export-xdpi="74.910004"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+         id="g1726">
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6648-00-5-7-6-7-2"
+           width="4.297996"
+           height="2.3911977"
+           x="179.01775"
+           y="270.63333"
+           ry="0.18143466" />
+        <path
+           inkscape:transform-center-y="5.2277403"
+           inkscape:transform-center-x="-1.4288003"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 180.33492,273.47443 2.44845,4.38681 0.0114,5.28529"
+           id="path4618-0-06-80-1-8-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           inkscape:transform-center-y="5.74075"
+           inkscape:transform-center-x="0.4268677"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 180.24093,273.72418 -0.11334,3.81148 -1.64854,5.49454"
+           id="path4626-1-3-1-8-7-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 179.55872,272.65609 1.00654,-0.54734 v 0.36742 l -1.04194,0.51776 z"
+           id="path6656-1-0-63-9-8-6"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 173.48894,265.17968 -0.73274,-1.01999"
+           id="path6348-0-2-3-33-6-2-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:transform-center-y="3.5217365"
+           inkscape:transform-center-x="-0.26883077"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 173.35949,265.1259 1.59379,4.51617 4.31943,-0.15342"
+           id="path4601-6-7-2-1-1-4-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           inkscape:transform-center-y="3.0270647"
+           inkscape:transform-center-x="-3.4439175"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 173.39803,265.23042 4.24116,1.62235 2.75888,-0.009"
+           id="path4601-8-5-2-4-03-4-4-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 173.51221,265.16138 3.03923,3.63552 3.30094,3.36942"
+           id="path4561-3-1-4-7-8-9-7"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g12567-4-8-7-7-4"
+           transform="rotate(-48.460869,366.13849,-216.12136)"
+           style="display:inline">
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             d="m -122.73493,-49.051434 5.94562,0.88351 z"
+             id="path6238-75-0-1-1-76-6-6-2" />
+          <ellipse
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="path6213-0-11-5-9-97-9-5-2"
+             ry="3.6473191"
+             rx="3.6525061"
+             cy="-4.2590704"
+             cx="-128.83313"
+             transform="rotate(19.434703)" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+             id="path6215-3-4-2-9-62-1-1-7"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+             id="path6219-9-0-7-6-8-2-9-2"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1831-9"
+         d="m 172.04942,210.35828 0.95521,1.17196"
+         style="display:inline;fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2773">
+      <g
+         transform="translate(0,-52.749036)"
+         inkscape:export-ydpi="74.910004"
+         inkscape:export-xdpi="74.910004"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+         id="g1771">
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6648-00-5-7-6-7-2-7-1-5"
+           width="4.297996"
+           height="2.3911977"
+           x="59.525112"
+           y="324.7515"
+           ry="0.18143466" />
+        <path
+           inkscape:transform-center-y="5.2277403"
+           inkscape:transform-center-x="-1.4288003"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 60.842258,327.59261 2.448454,4.38681 0.0114,5.28528"
+           id="path4618-0-06-80-1-8-8-8-7-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           inkscape:transform-center-y="5.74075"
+           inkscape:transform-center-x="0.4268677"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 60.748267,327.84236 -0.113334,3.81148 -1.648547,5.49454"
+           id="path4626-1-3-1-8-7-0-2-5-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 60.06606,326.77427 1.006546,-0.54734 v 0.36742 l -1.041948,0.51776 z"
+           id="path6656-1-0-63-9-8-6-6-5-1"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 57.038678,317.37886 56.726026,316.1625"
+           id="path6348-0-2-3-33-6-2-0-4-1-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:transform-center-y="3.5217365"
+           inkscape:transform-center-x="-0.26883077"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 56.937569,317.28178 -0.153715,4.78669 4.08066,1.4245"
+           id="path4601-6-7-2-1-1-4-7-7-5-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           inkscape:transform-center-y="3.0270647"
+           inkscape:transform-center-x="-3.4439175"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 56.935559,317.39317 3.363319,3.05082 2.573975,0.99303"
+           id="path4601-8-5-2-4-03-4-4-4-7-6-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 57.067,317.37026 1.512771,4.4906 1.853203,4.33762"
+           id="path4561-3-1-4-7-8-9-7-2-6-7"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g12567-4-8-7-7-4-7-6-6"
+           transform="rotate(-27.183195,707.98868,-230.36962)"
+           style="display:inline">
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             d="m -122.73493,-49.051434 5.94562,0.88351 z"
+             id="path6238-75-0-1-1-76-6-6-2-4-6-6" />
+          <ellipse
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="path6213-0-11-5-9-97-9-5-2-6-0-6"
+             ry="3.6473191"
+             rx="3.6525061"
+             cy="-4.2590704"
+             cx="-128.83313"
+             transform="rotate(19.434703)" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+             id="path6215-3-4-2-9-62-1-1-7-2-8-0"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+             id="path6219-9-0-7-6-8-2-9-2-1-4-7"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1831-2"
+         d="m 56.272649,261.55623 0.955204,1.17196"
+         style="display:inline;fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2790">
+      <g
+         transform="translate(0,-52.749036)"
+         inkscape:export-ydpi="74.910004"
+         inkscape:export-xdpi="74.910004"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+         id="g1786">
+        <rect
+           ry="0.18143466"
+           y="325.17542"
+           x="99.508987"
+           height="2.3911977"
+           width="4.297996"
+           id="rect6648-00-5-96"
+           style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4618-0-06-4"
+           d="m 100.92067,328.01649 2.44844,4.38682 0.0114,5.28529"
+           style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="-1.4288003"
+           inkscape:transform-center-y="5.2277403" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4626-1-3-4"
+           d="m 100.73218,328.26623 -0.11334,3.81149 -1.64854,5.49454"
+           style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="0.4268677"
+           inkscape:transform-center-y="5.74075" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6656-1-0-08"
+           d="m 100.04997,327.19815 1.0064,-0.54763 v 0.36742 l -1.04198,0.51772 z"
+           style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-3"
+           d="m 98.514328,317.08511 -0.124459,-1.24972"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4601-6-7-2-2"
+           d="m 98.42912,316.97379 -0.878272,4.70794 3.817252,2.02721"
+           style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="-0.26883077"
+           inkscape:transform-center-y="3.5217365" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4601-8-5-2-4-2"
+           d="m 98.410232,317.08358 2.861438,3.52586 2.39349,1.3721"
+           style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="-3.4439175"
+           inkscape:transform-center-y="3.0270647" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4561-3-1-4-29"
+           d="m 98.543626,317.08089 0.813845,4.66815 1.173549,4.56859"
+           style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           sodipodi:nodetypes="ccc" />
+        <g
+           style="display:inline"
+           transform="rotate(-18.455353,1090.5462,-538.10407)"
+           id="g12567-4-27">
+          <path
+             id="path6238-75-0-1-1-7"
+             d="m -122.73493,-49.051434 5.94562,0.88351 z"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <ellipse
+             transform="rotate(19.434703)"
+             cx="-128.83313"
+             cy="-4.2590704"
+             rx="3.6525061"
+             ry="3.6473191"
+             id="path6213-0-11-5-9-86"
+             style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="path6215-3-4-2-9-6"
+             d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path6219-9-0-7-6-68"
+             d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1831-3"
+         d="m 98.123982,261.67972 0.955204,1.17196"
+         style="display:inline;fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2707">
+      <g
+         transform="translate(0,-52.749036)"
+         inkscape:export-ydpi="74.910004"
+         inkscape:export-xdpi="74.910004"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png"
+         id="g1711">
+        <rect
+           ry="0.18143466"
+           y="271.4303"
+           x="139.17334"
+           height="2.3911977"
+           width="4.297996"
+           id="rect6648-00-5-7-6-7"
+           style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4618-0-06-80-1-8"
+           d="m 140.49051,274.27142 2.44843,4.38682 0.0114,5.28529"
+           style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="-1.4288003"
+           inkscape:transform-center-y="5.2277403" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4626-1-3-1-8-7"
+           d="m 140.39652,274.52116 -0.11334,3.81149 -1.64854,5.49454"
+           style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="0.4268677"
+           inkscape:transform-center-y="5.74075" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6656-1-0-63-9-8"
+           d="m 139.71431,273.45308 1.0064,-0.54763 v 0.36742 l -1.04197,0.51772 z"
+           style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6348-0-2-3-33-6-2"
+           d="m 135.07353,264.87732 -0.53224,-1.13755"
+           style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4601-6-7-2-1-1-4"
+           d="m 134.9562,264.8006 0.73428,4.73253 4.27373,0.64518"
+           style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="-0.26883077"
+           inkscape:transform-center-y="3.5217365" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path4601-8-5-2-4-03-4-4"
+           d="m 134.97483,264.91044 3.86957,2.37611 2.71323,0.49982"
+           style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:transform-center-x="-3.4439175"
+           inkscape:transform-center-y="3.0270647" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4561-3-1-4-7-8-9"
+           d="m 135.09977,264.86362 2.31724,4.13332 2.62351,3.92001"
+           style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           sodipodi:nodetypes="ccc" />
+        <g
+           style="display:inline"
+           transform="rotate(-37.841911,453.29824,-261.96551)"
+           id="g12567-4-8-7-7">
+          <path
+             id="path6238-75-0-1-1-76-6-6"
+             d="m -122.73493,-49.051434 5.94562,0.88351 z"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <ellipse
+             transform="rotate(19.434703)"
+             cx="-128.83313"
+             cy="-4.2590704"
+             rx="3.6525061"
+             ry="3.6473191"
+             id="path6213-0-11-5-9-97-9-5"
+             style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="path6215-3-4-2-9-62-1-1"
+             d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path6219-9-0-7-6-8-2-9"
+             d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+             style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1831-6"
+         d="m 133.72987,209.54605 0.95521,1.17196"
+         style="display:inline;fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2839">
+      <rect
+         ry="0.18143466"
+         y="271.48108"
+         x="19.316751"
+         height="2.3911977"
+         width="4.297996"
+         id="rect6648-00-5-7-6-7-2-7-1"
+         style="display:inline;opacity:0;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65082109;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4618-0-06-80-1-8-8-8-7"
+         d="m 20.633902,274.32218 2.448454,4.38681 0.0114,5.28528"
+         style="display:inline;fill:none;stroke:#004f00;stroke-width:1.88926411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:transform-center-x="-1.4288003"
+         inkscape:transform-center-y="5.2277403" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4626-1-3-1-8-7-0-2-5"
+         d="m 20.539911,274.57193 -0.113334,3.81148 -1.648547,5.49454"
+         style="display:inline;fill:none;stroke:#005500;stroke-width:1.84708536;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:transform-center-x="0.4268677"
+         inkscape:transform-center-y="5.74075" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6656-1-0-63-9-8-6-6-5"
+         d="m 19.857704,273.50384 1.006546,-0.54734 v 0.36742 l -1.041948,0.51776 z"
+         style="display:inline;opacity:1;fill:#315e5e;fill-opacity:0.92753625;stroke:#fdffff;stroke-width:0.20894137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6348-0-2-3-33-6-2-0-4-1"
+         d="m 15.331548,264.85688 -0.516421,-1.14482"
+         style="display:inline;fill:none;stroke:#935c00;stroke-width:1.31144238;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4601-6-7-2-1-1-4-7-7-5"
+         d="m 15.215293,264.77854 0.668628,4.74225 4.264378,0.70433"
+         style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:transform-center-x="-0.26883077"
+         inkscape:transform-center-y="3.5217365" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4601-8-5-2-4-03-4-4-4-7-6"
+         d="m 15.232395,264.88862 3.83627,2.42951 2.706047,0.53736"
+         style="display:inline;fill:none;stroke:#9e5c00;stroke-width:1.22997427;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:transform-center-x="-3.4439175"
+         inkscape:transform-center-y="3.0270647" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4561-3-1-4-7-8-9-7-2-6"
+         d="m 15.357969,264.84354 2.259748,4.16503 2.568938,3.95599"
+         style="display:inline;fill:#83c600;fill-opacity:1;fill-rule:nonzero;stroke:#9e5c00;stroke-width:1.21526885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         sodipodi:nodetypes="ccc" />
+      <g
+         style="display:inline"
+         transform="rotate(-37.047959,401.84632,-91.61469)"
+         id="g12567-4-8-7-7-4-7-6">
+        <path
+           id="path6238-75-0-1-1-76-6-6-2-4-6"
+           d="m -122.73493,-49.051434 5.94562,0.88351 z"
+           style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#000000;stroke-width:0.84295118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <ellipse
+           transform="rotate(19.434703)"
+           cx="-128.83313"
+           cy="-4.2590704"
+           rx="3.6525061"
+           ry="3.6473191"
+           id="path6213-0-11-5-9-97-9-5-2-6-0"
+           style="display:inline;opacity:1;fill:#ff9e00;fill-opacity:0.57647059;fill-rule:evenodd;stroke:#935c00;stroke-width:0.49429041;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path6215-3-4-2-9-62-1-1-7-2-8"
+           d="m -117.43922,-44.708634 -0.74194,0.24522 -1.09674,-0.2975"
+           style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path6219-9-0-7-6-8-2-9-2-1-4"
+           d="m -118.30476,-47.541694 -0.44262,0.99385 1.96173,0.10285 z"
+           style="display:inline;fill:#cb9c3e;fill-opacity:0.57487925;stroke:#935c00;stroke-width:0.42147559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03_walking.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1831-0"
+         d="m 13.639998,261.5085 0.95521,1.17196"
+         style="display:inline;fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="grid"
+     style="display:none">
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525223;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625"
+       width="39.631622"
+       height="52.749039"
+       x="0.16764832"
+       y="138.58525"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525223;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-8"
+       width="39.631626"
+       height="52.749039"
+       x="39.799244"
+       y="138.58525"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525223;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-4"
+       width="39.631626"
+       height="52.749039"
+       x="79.43087"
+       y="138.58525"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525223;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-6"
+       width="39.631626"
+       height="52.749039"
+       x="119.06248"
+       y="138.58525"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525223;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-44"
+       width="39.631626"
+       height="52.749039"
+       x="158.69412"
+       y="138.58525"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525223;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-44-1"
+       width="39.63163"
+       height="52.749039"
+       x="198.32573"
+       y="138.58525"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525226;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-72"
+       width="39.631622"
+       height="52.749043"
+       x="0.16764736"
+       y="244.08333"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525226;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-8-5"
+       width="39.631626"
+       height="52.749043"
+       x="39.799271"
+       y="244.08333"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525226;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-4-0"
+       width="39.631626"
+       height="52.749043"
+       x="79.430893"
+       y="244.08333"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525226;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-6-8"
+       width="39.631626"
+       height="52.749043"
+       x="119.0625"
+       y="244.08333"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525226;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-44-9"
+       width="39.631626"
+       height="52.749043"
+       x="158.69414"
+       y="244.08333"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525226;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-44-1-6"
+       width="39.63163"
+       height="52.749043"
+       x="198.32574"
+       y="244.08333"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-72-2"
+       width="39.631622"
+       height="52.749043"
+       x="0.16764832"
+       y="191.33429"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-8-5-2"
+       width="39.631626"
+       height="52.749043"
+       x="39.799271"
+       y="191.33429"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-4-0-4"
+       width="39.631626"
+       height="52.749043"
+       x="79.430908"
+       y="191.33429"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-6-8-6"
+       width="39.631626"
+       height="52.749043"
+       x="119.0625"
+       y="191.33429"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-44-9-8"
+       width="39.631626"
+       height="52.749043"
+       x="158.69415"
+       y="191.33429"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.33525229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12625-44-1-6-4"
+       width="39.63163"
+       height="52.749043"
+       x="198.32574"
+       y="191.33429"
+       ry="0.28877759"
+       inkscape:export-xdpi="74.910004"
+       inkscape:export-ydpi="74.910004"
+       inkscape:export-filename="C:\Users\dipti.3QTRUS\Documents\stickJumpForce\Assets\Assets\Sprites\Character\C03\C03_ghit.png" />
+  </g>
+</svg>
