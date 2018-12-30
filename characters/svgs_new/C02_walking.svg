@@ -29,17 +29,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="460.88693"
-     inkscape:cy="253.0533"
+     inkscape:cx="715.91889"
+     inkscape:cy="137.84739"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer7"
      showgrid="true"
      showborder="false"
      inkscape:lockguides="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      units="px"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -261,7 +261,7 @@
        x="-9.0056696"
        y="-4.8715553"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -272,7 +272,7 @@
        x="30.503067"
        y="-4.8715553"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -283,7 +283,7 @@
        x="70.011803"
        y="-4.8715553"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -294,7 +294,7 @@
        x="109.52054"
        y="-4.8715553"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -305,7 +305,7 @@
        x="149.02927"
        y="-4.8715553"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -316,7 +316,7 @@
        x="188.53799"
        y="-4.8715553"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -327,7 +327,7 @@
        x="228.04672"
        y="-4.8715553"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -338,7 +338,7 @@
        x="267.55545"
        y="-4.8715553"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -349,7 +349,7 @@
        x="307.06418"
        y="-4.8715553"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -360,7 +360,7 @@
        x="-9.0056458"
        y="47.866344"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -371,7 +371,7 @@
        x="30.503082"
        y="47.866344"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -382,7 +382,7 @@
        x="70.01181"
        y="47.866344"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -393,7 +393,7 @@
        x="109.52057"
        y="47.866344"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -404,7 +404,7 @@
        x="149.0293"
        y="47.866344"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -415,7 +415,7 @@
        x="188.53799"
        y="47.866344"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -426,7 +426,7 @@
        x="228.04672"
        y="47.866344"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -437,7 +437,7 @@
        x="267.55545"
        y="47.866344"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -448,7 +448,7 @@
        x="307.06415"
        y="47.866344"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -459,7 +459,7 @@
        x="-9.0056763"
        y="100.60425"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -470,7 +470,7 @@
        x="30.503082"
        y="100.60425"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -481,7 +481,7 @@
        x="70.01181"
        y="100.60425"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -492,7 +492,7 @@
        x="109.52054"
        y="100.60425"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -503,7 +503,7 @@
        x="149.0293"
        y="100.60425"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -514,7 +514,7 @@
        x="188.53799"
        y="100.60425"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -525,7 +525,7 @@
        x="228.04672"
        y="100.60425"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -536,7 +536,7 @@
        x="267.55545"
        y="100.60425"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -547,7 +547,7 @@
        x="307.06418"
        y="100.60425"
        ry="0.28980953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
@@ -881,9 +881,10 @@
      style="display:inline">
     <g
        id="g3082"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(0.76877003,-0.77920703)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -1056,9 +1057,10 @@
     </g>
     <g
        id="g3117"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(1.2292063,-0.77920704)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -1231,9 +1233,10 @@
     </g>
     <g
        id="g3152"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(2.5893933,-2.6811073)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -1406,9 +1409,10 @@
     </g>
     <g
        id="g3187"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(2.3417797,-0.77920703)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -1581,9 +1585,10 @@
     </g>
     <g
        id="g3222"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(3.1173164,-0.77920697)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -1756,9 +1761,10 @@
     </g>
     <g
        id="g3257"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(3.6005142,-0.77920706)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -1931,9 +1937,10 @@
     </g>
     <g
        id="g3292"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(2.3297592,-0.77920751)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -2106,9 +2113,10 @@
     </g>
     <g
        id="g3327"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(3.3976133,-0.77920702)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -2281,9 +2289,10 @@
     </g>
     <g
        id="g3677"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(-0.39174305,-1.9788718)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -2456,9 +2465,10 @@
     </g>
     <g
        id="g3642"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(0.64455411,-1.9788719)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -2631,9 +2641,10 @@
     </g>
     <g
        id="g3607"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(1.5662536,-1.9788718)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -2806,9 +2817,10 @@
     </g>
     <g
        id="g3572"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(1.6109625,-1.9788719)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -2981,9 +2993,10 @@
     </g>
     <g
        id="g3537"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(0.77870017,-1.9788721)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -3156,9 +3169,10 @@
     </g>
     <g
        id="g3502"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(1.4080682,-1.9788721)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -3331,9 +3345,10 @@
     </g>
     <g
        id="g3887"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(0.53108631,-2.4374435)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -3506,9 +3521,10 @@
     </g>
     <g
        id="g3852"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(2.0941665,-2.4374435)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -3681,9 +3697,10 @@
     </g>
     <g
        id="g3817"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(1.3186436,-2.437449)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -3856,9 +3873,10 @@
     </g>
     <g
        id="g3782"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(2.0047461,-2.4374514)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -4031,9 +4049,10 @@
     </g>
     <g
        id="g3747"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(-0.08626045,-2.4374433)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -4206,9 +4225,10 @@
     </g>
     <g
        id="g3712"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(2.3258724,-2.4374502)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -4381,9 +4401,10 @@
     </g>
     <g
        id="g3362"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(4.7813789,-0.77920783)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -4556,9 +4577,10 @@
     </g>
     <g
        id="g3397"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(1.0606779,-1.9788722)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -4731,9 +4753,10 @@
     </g>
     <g
        id="g3432"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(2.8930902,-1.978872)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -4906,9 +4929,10 @@
     </g>
     <g
        id="g3467"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(2.2450347,-1.9788721)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -5081,9 +5105,10 @@
     </g>
     <g
        id="g3988"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(2.1975657,-2.437448)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -5256,9 +5281,10 @@
     </g>
     <g
        id="g3953"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(4.1333172,-2.437444)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
@@ -5431,9 +5457,10 @@
     </g>
     <g
        id="g3918"
-       inkscape:export-filename="C:\Users\dipti.3QTRUS\Desktop\stickJumpForce\characters\C02\C02_walking.png"
+       inkscape:export-filename="C:\Users\Dell\Documents\SJF\Assets\Assets\Sprites\Character\C02\C02_walking.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       transform="translate(3.8986877,-2.4374523)">
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
